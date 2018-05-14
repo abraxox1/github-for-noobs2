@@ -3,3 +3,7 @@ hi again
 another test
 see you
 hopefully...
+
+body {
+    background: pink;
+}
